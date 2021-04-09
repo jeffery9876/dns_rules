@@ -1,9 +1,8 @@
-@@||sentry.io^$important
-@@||cem.lloydsbank.co.uk^$important
-@@||check2.lloydsbank.co.uk^$important
-@@||click.linksynergy.com^$important
-@@||smetrics.lululemon.co.uk^$important
-@@||stash.qubitproducts.com^$important
-@@||www.res-x.com^$important
-@@||pcvideoaliyun.titan.mgtv.com^$important
-@@||rightmoveanalytics.co.uk^$important
+@@||sentry.io^
+@@||lloydsbank.co.uk^
+@@||img.tkmaxx.co.uk^
+@@||click.linksynergy.com^
+@@||smetrics.lululemon.co.uk^
+@@||stash.qubitproducts.com^
+@@||pcvideoaliyun.titan.mgtv.com^
+@@||rightmoveanalytics.co.uk^
